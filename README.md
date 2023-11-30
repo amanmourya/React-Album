@@ -24,17 +24,9 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the Repository:** Start by cloning this repository to your local machine:
 
-   ```shell
-   git clone https://github.com/your-username/albums-list-react-app.git
-   ```
-
 2. **Navigate to the Project Directory:** Change your current directory to the project directory:
-
-   ```shell
-   cd albums-list-react-app
-   ```
-
-3. **Install Dependencies:** Install the project dependencies using npm or yarn:
+3. 
+4. **Install Dependencies:** Install the project dependencies using npm or yarn:
 
    ```shell
    npm install
@@ -46,7 +38,7 @@ Before you start, ensure you have the following installed:
    yarn install
    ```
 
-4. **Start the Development Server:** After the installation is complete, you can start the development server:
+5. **Start the Development Server:** After the installation is complete, you can start the development server:
 
    ```shell
    npm start
@@ -81,28 +73,3 @@ If you'd like to contribute to this project, please follow these guidelines:
 4. Make your changes and commit them with descriptive commit messages.
 5. Push your changes to your forked repository.
 6. Create a pull request from your forked repository to the original repository.
-
-## License
-
-This project is licensed under the MIT License.
-## Acknowledgments
-
-- This project was built with React.js, a JavaScript library developed by Facebook.
-- The icons used in the project are from [FontAwesome](https://fontawesome.com/).
-- Special thanks to the open-source community for providing invaluable resources and inspiration.
-
-  ## Screenshots
-
-![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/2d6cafbc-6bbf-43a0-bb73-bb0e9b9a04b2)
-  
-
-![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/befb9e9f-e067-49f8-a642-d89e900a7e6e)
-
-
-![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/9def92fd-3f02-432c-a463-064a20866d2a)
-
-
-![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/cba82292-c9ca-4205-8991-c1a953e7dccb)
-
-
-![image](https://github.com/AbhijeetKrMishra2/Album-Collection-Coding-Ninjas/assets/139151966/fa3d8f2b-60be-4c4d-a147-5fa63491761f)
